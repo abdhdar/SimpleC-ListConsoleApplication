@@ -42,6 +42,9 @@ Simple C# list console application
 - example "load new.txt"
 - will read "new.txt" file and rewrite the list in the program 
 
+## Exit
+- "exit" to close the program
+
 ---  
 ## Version
 - Dot.Net 6.0
