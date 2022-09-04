@@ -1,0 +1,15 @@
+D:\Coding\interview\obj\Debug\net6.0\interview.csproj.AssemblyReference.cache
+D:\Coding\interview\obj\Debug\net6.0\interview.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\interview\obj\Debug\net6.0\interview.AssemblyInfoInputs.cache
+D:\Coding\interview\obj\Debug\net6.0\interview.AssemblyInfo.cs
+D:\Coding\interview\obj\Debug\net6.0\interview.csproj.CoreCompileInputs.cache
+D:\Coding\interview\bin\Debug\net6.0\interview.exe
+D:\Coding\interview\bin\Debug\net6.0\interview.deps.json
+D:\Coding\interview\bin\Debug\net6.0\interview.runtimeconfig.json
+D:\Coding\interview\bin\Debug\net6.0\interview.dll
+D:\Coding\interview\bin\Debug\net6.0\interview.pdb
+D:\Coding\interview\obj\Debug\net6.0\interview.dll
+D:\Coding\interview\obj\Debug\net6.0\refint\interview.dll
+D:\Coding\interview\obj\Debug\net6.0\interview.pdb
+D:\Coding\interview\obj\Debug\net6.0\interview.genruntimeconfig.cache
+D:\Coding\interview\obj\Debug\net6.0\ref\interview.dll
